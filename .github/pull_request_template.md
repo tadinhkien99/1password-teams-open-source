@@ -1,32 +1,18 @@
-## Your Project
+## Alopecia Detection
 
-#### 1Password Teams URL
-<!--
-  Make sure you create an account before applying. Don't have one?
-  https://start.1password.com/signup/?t=B
-  
-  Example: myteam.1password.com
--->
+#### cropcorn.1password.com
 
-#### Project Name
-<!--
-  If this is for a team that works on multiple projects, a team name
-  can be used instead.
--->
+#### Alopecia Detection For ward hospital
 
-#### Short Description
+#### In this project we are using the concept of deep learning to detect the alopecia in the patient
 
-#### Project Age
-<!--
-  Your project needs to be active and at least 30 days old to be
-  eligible for this program.
--->
+#### We ran the model 1 year ago and we got the accuracy of 98% and we are still working on it to improve the accuracy
 
-#### Number Of Core Contributors
+#### 2 people are working on this project
 
-#### Project Website
+#### Because private run on local machine in hospital so that we can't deploy it on cloud
 
-#### Repository URL(s)
+#### https://github.com/tadinhkien99/health-app-ward
 
 #### Latest Release URL(s)
 
