@@ -1,42 +1,45 @@
-## Alopecia Detection
+## Your Project
 
-#### cropcorn.1password.com
+#### 1Password Teams URL
+https://cropcorn.1password.com/
 
-#### Alopecia Detection For ward hospital
+#### Project Name
 
-#### In this project we are using the concept of deep learning to detect the alopecia in the patient
+Alopecia Classification
 
-#### We ran the model 1 year ago and we got the accuracy of 98% and we are still working on it to improve the accuracy
+#### Short Description
+This project to classify alopecia images using deep learning, use in hospital.
 
-#### 2 people are working on this project
+#### Project Age
+ - We ran this project in 2022.
 
-#### Because private run on local machine in hospital so that we can't deploy it on cloud
-
-#### https://github.com/tadinhkien99/health-app-ward
-
+#### Number Of Core Contributors
+ - 2 people.
+#### Project Website
+Because we are using in hospital's local machine, we do not have a website.
+#### Repository URL(s)
+https://github.com/tadinhkien99/health-app-ward
 #### Latest Release URL(s)
-
+https://github.com/tadinhkien99/health-app-ward
 #### License
-<!--
-  Please include the type (e.g. MIT, BSD, GPL, etc.), and a link
-  to where it can be found in your repository.
--->
+MIT License
+https://github.com/tadinhkien99/health-app-ward/blob/main/LICENSE
 
 ## A Bit About Yourself
 
 #### Name
-
+Ta Dinh Kien
 #### Email
-<!-- We will use this to validate the application with your account -->
+tadinhkien99@gmail.com
 
 #### Project Role
-
+Project Manager
 #### Profile/Website
-<!-- Link to GitHub profile page, project page bio, etc. -->
+https://github.com/tadinhkien99
 
 #### Anything else to add?
-
+I also a freelancer, I have a lot of experience in web development, mobile development, and machine learning. I am very happy to contribute to this project.
 #### Can we contact you?
 We'd love to be in touch to learn how you're using 1Password. Would you be open to our Developer Advocates reaching out?
 
-- [ ] Yes, I'm open.
+- [x] Yes, I'm open.
